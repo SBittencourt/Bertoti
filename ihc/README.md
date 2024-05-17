@@ -1,4 +1,9 @@
 <h1 align="center"> Erros de Heuristicas </h1>
+<br>
+
+<h2 align="center"> Erros ❌</h2>
+
+<br>
 
 ## Erro 1 - Heuristica 4:
 
@@ -24,6 +29,12 @@ Heuristica 8: estética e design minimalista
 Erro ❌: Excesso de conteúdo na tela, dificultando a localização de informações.
 
 ![Site unifesp](https://github.com/SBittencourt/Bertoti/blob/main/ihc/imagens/erro7.png)
+
+<br>
+
+<h2 align="center"> Acertos ✅</h2>
+
+<br>
 
 ## Acerto 1 - Heuristica 8:
 
