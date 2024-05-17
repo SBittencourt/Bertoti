@@ -5,20 +5,27 @@
 
 <br>
 
-## Erro 1 - Heuristica 4: consistência e padronização
+
+## Erro 1 - Heuristica 4: Consistência e padronização
+
+Erro ❌: Há uma quebra de padrão quanto os botões, com eles ficando entre itens com ícones diferentes, dificultando o encontro da função desejada.
+
+![Instagram](https://github.com/SBittencourt/Bertoti/blob/main/ihc/imagens/Erro04.png)
+
+## Erro 2 - Heuristica 6: Reconhecimento em vez de recordação
 
 Erro ❌: Utilização da cor vermelha nos top mais lidos, sendo que vermelho é uma cor que, normalmente, remete a erros ou a algo negativo.
 
 ![Site fliptru.com](https://github.com/SBittencourt/Bertoti/blob/main/ihc/imagens/erro4.png)
 
 
-## Erro 2 - Heuristica 7: flexibilidade e eficiência de uso
+## Erro 3 - Heuristica 7: flexibilidade e eficiência de uso
 
 Erro ❌: Falta de clareza na interface, o anúncio tem maior destaque que o restante da página e apaga o site. Apesar do site tem a opção de "entrar"(ou login), todo o design é voltado para fazer o usuário baixar o aplicativo, apesar dele ter uma entrada(pouco destacada) para logar no navegador, tornando-o ineficiente.
 
 ![Site amino.com](https://github.com/SBittencourt/Bertoti/blob/main/ihc/imagens/erro1.png)
 
-## Erro 3 - Heuristica 8:  estética e design minimalista
+## Erro 4 - Heuristica 8:  estética e design minimalista
 
 Erro ❌: Excesso de conteúdo na tela, dificultando a localização de informações.
 
