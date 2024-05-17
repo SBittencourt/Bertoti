@@ -32,11 +32,20 @@ Acerto ✅: visual minimalista, sem distrações ao usuário e que mostra o ess�
 
 ![Site google](https://github.com/SBittencourt/Bertoti/blob/main/ihc/imagens/acerto8.png)
 
-## Acerto 2 - Heuristica 10:
+## Acerto 2 - Heuristica 9:
+
+Heuristica 9: Ajude os usuários a reconhecer, diagnosticar e recuperar-se de erros.
+<br><br>
+Acerto ✅: quando um erro é cometido, já fica claro o alerta disso e é dada formas de correção.
+
+![Site login gmail](https://github.com/SBittencourt/Bertoti/blob/main/ihc/imagens/Acerto09.png)
+
+## Acerto 3 - Heuristica 10:
 
 Heuristica 10: Ajuda e documentação
 <br><br>
 Acerto ✅: visual simples e com documentação clara, que ensina com facilidade a como usar a ferramenta.
 
 ![Site react](https://github.com/SBittencourt/Bertoti/blob/main/ihc/imagens/Acerto10.png)
+
 
