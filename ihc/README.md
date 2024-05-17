@@ -31,6 +31,12 @@ Erro ❌: Excesso de conteúdo na tela, dificultando a localização de informa�
 
 ![Site unifesp](https://github.com/SBittencourt/Bertoti/blob/main/ihc/imagens/erro7.png)
 
+## Erro 5 - Heuristica 9:  Ajude os usuários a reconhecer, diagnosticar e recuperar erros
+
+Erro ❌: é exibida uma mensagem de erro, mas não é dado o motivo nem forma de o resolver.
+
+![mensagem de erro](https://github.com/SBittencourt/Bertoti/blob/main/ihc/imagens/Erro09.png)
+
 <br>
 
 <h2 align="center"> Acertos ✅</h2>
