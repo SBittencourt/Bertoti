@@ -46,13 +46,21 @@ Acerto ✅: é dado um aviso com as consequências caso o usuário prossiga com 
 
 ## Acerto 2 - Heuristica 8:
 
+Heuristica 6: Reconhecimento em vez de recordação
+<br><br>
+Acerto ✅: é possível reconhecer com facilidade o que cada ícone faz, devido a uma padronização geral que possuem nos sites de fácil entendimento.
+
+![Site github](https://github.com/SBittencourt/Bertoti/blob/main/ihc/imagens/Acerto06.png)
+
+## Acerto 3 - Heuristica 8:
+
 Heuristica 8: estética e design minimalista
 <br><br>
 Acerto ✅: visual minimalista, sem distrações ao usuário e que mostra o essêncial(a barra de pesquisas) diretamente, tendo o foco total nela. Os ícones também são facilmente entendiveis.
 
 ![Site google](https://github.com/SBittencourt/Bertoti/blob/main/ihc/imagens/acerto8.png)
 
-## Acerto 3 - Heuristica 9:
+## Acerto 4 - Heuristica 9:
 
 Heuristica 9: Ajude os usuários a reconhecer, diagnosticar e recuperar-se de erros.
 <br><br>
@@ -60,7 +68,7 @@ Acerto ✅: quando um erro é cometido, já fica claro o alerta disso e é dada 
 
 ![Site login gmail](https://github.com/SBittencourt/Bertoti/blob/main/ihc/imagens/Acerto09.png)
 
-## Acerto 4 - Heuristica 10:
+## Acerto 5 - Heuristica 10:
 
 Heuristica 10: Ajuda e documentação
 <br><br>
