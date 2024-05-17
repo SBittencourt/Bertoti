@@ -24,10 +24,19 @@ Erro ❌: Excesso de conteúdo na tela, dificultando a localização de informa�
 
 ![Site unifesp](https://github.com/SBittencourt/Bertoti/blob/main/ihc/imagens/erro7.png)
 
-## Acerto - Heuristica 8:
+## Acerto 1 - Heuristica 8:
 
 Heuristica 8: estética e design minimalista
 <br><br>
 Acerto ✅: visual minimalista, sem distrações ao usuário e que mostra o essêncial(a barra de pesquisas) diretamente, tendo o foco total nela. Os ícones também são facilmente entendiveis.
 
-![Site unifesp](https://github.com/SBittencourt/Bertoti/blob/main/ihc/imagens/acerto8.png)
+![Site google](https://github.com/SBittencourt/Bertoti/blob/main/ihc/imagens/acerto8.png)
+
+## Acerto 2 - Heuristica 10:
+
+Heuristica 10: Ajuda e documentação
+<br><br>
+Acerto ✅: visual simples e com documentação clara, que ensina com facilidade a como usar a ferramenta.
+
+![Site react](https://github.com/SBittencourt/Bertoti/blob/main/ihc/imagens/Acerto10.png)
+
